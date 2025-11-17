@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sadiq 👋
 
-<!--
-**SadiqRauf/sadiqrauf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Mobile App Developer (React Native & React)
+- 🔭 I build mobile & web apps
+- 💼 Working with Shopify Liquid, Django, TypeScript, MUI, Formik
+- 📫 Reach me at: your-email@example.com
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+React Native | React | TypeScript | Django | Node.js | Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ Featured Projects
+- [My E-commerce App](#)
+- [Social Services App](#)
