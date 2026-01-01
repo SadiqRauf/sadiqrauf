@@ -1,10 +1,52 @@
-# Hi, I'm Sadiq 👋
 
-### 🚀 Mobile App Developer (React Native & React)
-- 🔭 I build mobile & web apps
-- 💼 Working with Shopify Liquid, Django, TypeScript, MUI, Formik
-- 📫 Reach me at: sadiqrauf00928@gmail.com
+---
+
+# Hi, I’m **Sadiq Rauf** 👋
+
+### 🚀 Mobile & Web Application Developer
+
+I’m a results-driven developer specializing in **React Native** and **React**, with hands-on experience building scalable mobile and web applications. I enjoy turning complex requirements into clean, performant, and user-friendly solutions.
+
+---
+
+## 👨‍💻 What I Do
+
+* 📱 Build cross-platform mobile apps using **React Native**
+* 🌐 Develop modern web applications with **React & Next.js**
+* 🛒 Customize and extend **Shopify** stores using **Liquid**
+* ⚙️ Design robust backends with **Django & Node.js**
+* 🧩 Create reusable, type-safe components using **TypeScript**
+* 🎨 Implement clean UI/UX with **MUI**, **Formik**, and modern styling practices
+
+---
 
 ## 🛠 Tech Stack
-React Native | React | TypeScript | Django | Node.js | Firebase
+
+**Frontend:**
+React Native · React · Next.js · TypeScript · Material-UI · Formik
+
+**Backend:**
+Django · Node.js · REST APIs
+
+**Other:**
+Shopify Liquid · Git · App Store & Play Store Deployments
+
+---
+
+## 📌 Experience Highlights
+
+* Published production-ready apps on **Google Play Store** and **Apple App Store**
+* Built e-commerce, educational, and service-based applications
+* Worked on scalable architectures and clean code practices
+* Strong focus on performance, maintainability, and user experience
+
+---
+
+## 📫 Get in Touch
+
+📧 **Email:** [sadiqrauf00928@gmail.com](mailto:sadiqrauf00928@gmail.com)
+
+---
+
+
 
